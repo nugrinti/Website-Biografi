@@ -1,0 +1,17 @@
+Heading Utama: Nurahma Rahayu
+H1: Nurahma Rahayu
+H2: Hubungi Saya
+H3: Tentang Saya
+H3: Pengalaman
+H3: Keterampilan
+H3: Fakta Menarik
+H4: Mahasiswa D4 Teknik Informatika
+Paragraf 1 dalam Tentang: 
+            Halo, saya adalah seorang Mahasiswa D4 Teknik Informatika Semester 2
+            di Politeknik Negeri Bandung. Saya memiliki minat dalam pengembangan
+            web, pemrograman, dan desain.
+
+Link Navigasi: #tentang - Tentang
+Link Navigasi: #pengalaman - Pengalaman
+Link Navigasi: #keterampilan - Keterampilan
+Link Navigasi: #kontak - Kontak
